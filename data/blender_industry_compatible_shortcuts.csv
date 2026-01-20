@@ -1,0 +1,84 @@
+Category,Shortcut,Action,Mode,Notes
+Mode Switching,1,Edit Mode - Vertex,Edit Mode,Switch to vertex selection
+Mode Switching,2,Edit Mode - Edge,Edit Mode,Switch to edge selection
+Mode Switching,3,Edit Mode - Face,Edit Mode,Switch to face selection
+Mode Switching,4,Object Mode,Any,Return to object mode
+Mode Switching,5,Sculpt Mode,Any,Switch to sculpt mode
+Mode Switching,6,Vertex Paint,Any,Switch to vertex paint mode
+Mode Switching,7,Weight Paint,Any,Switch to weight paint mode
+Mode Switching,8,Texture Paint,Any,Switch to texture paint mode
+Mode Switching,Tab,Toggle Edit Mode,Object/Edit,Quick toggle between modes
+Viewport Navigation,Alt + LMB,Rotate View,All,Orbit/rotate viewport
+Viewport Navigation,Alt + MMB,Pan View,All,Pan/translate viewport
+Viewport Navigation,Alt + RMB,Zoom View,All,Zoom in/out by dragging
+Viewport Navigation,Mouse Wheel,Zoom,All,Scroll to zoom in/out
+Viewport Navigation,F,Frame Selected,All,Center view on selection
+Viewport Navigation,Numpad 1,Front View,All,Orthographic front view
+Viewport Navigation,Numpad 3,Side View,All,Orthographic side view
+Viewport Navigation,Numpad 7,Top View,All,Orthographic top view
+Viewport Navigation,Numpad 9,Flip View,All,Invert current view direction
+Viewport Navigation,Numpad 5,Perspective/Ortho Toggle,All,Toggle perspective/orthographic
+Viewport Navigation,Numpad 0,Camera View,All,View through camera
+Transformation,W,Move/Translate,Object/Edit,Move selected objects/elements
+Transformation,E,Rotate,Object/Edit,Rotate selected objects/elements
+Transformation,R,Scale,Object/Edit,Scale selected objects/elements
+Transformation,X/Y/Z,Axis Lock,During Transform,Lock to specific axis during transform
+Transformation,Shift + X/Y/Z,Plane Lock,During Transform,Lock to plane (exclude axis)
+Transformation,Ctrl,Snap,During Transform,Enable snapping during transform
+Transformation,Shift,Precision Mode,During Transform,Enable precision/fine control
+Selection,LMB,Select,All,Select object/element
+Selection,Shift + LMB,Add/Remove Selection,All,Add or remove from selection
+Selection,Ctrl + LMB,Deselect,All,Remove from selection
+Selection,A,Select All,All,Select all objects/elements
+Selection,Alt + A,Deselect All,All,Deselect everything
+Selection,Ctrl + I,Invert Selection,All,Invert current selection
+Selection,Alt + LMB,Select Loop,Edit Mode,Select edge/face loop
+Selection,Alt + Shift + LMB,Add/Remove Loop,Edit Mode,Add or remove loop from selection
+Selection,Q,Box Select,All,Box selection tool
+Selection,C,Circle Select,All,Circle selection tool
+Selection,L,Select Linked,Edit Mode,Select all linked vertices under cursor
+Mesh Editing,E,Extrude,Edit Mode,Extrude selected elements (after switching from rotate)
+Mesh Editing,I,Inset Faces,Edit Mode,Inset selected faces
+Mesh Editing,Ctrl + B,Bevel,Edit Mode,Bevel selected edges/vertices
+Mesh Editing,Ctrl + R,Loop Cut,Edit Mode,Add edge loop cut
+Mesh Editing,F,Fill/Face,Edit Mode,Create face from selection
+Mesh Editing,Alt + F,Fill,Edit Mode,Fill with triangles
+Mesh Editing,K,Knife Tool,Edit Mode,Cut new edges
+Mesh Editing,V,Rip,Edit Mode,Rip vertices/edges
+Mesh Editing,Alt + M,Merge Menu,Edit Mode,Merge vertices options
+Mesh Editing,P,Separate,Edit Mode,Separate mesh elements
+Mesh Editing,Ctrl + L,Select Linked,Edit Mode,Select all linked geometry
+Mesh Editing,Ctrl + J,Join,Object Mode,Join selected objects
+Context Menu,RMB,Context Menu,All,Open context-sensitive menu
+Context Menu,Shift + A,Add Menu,Object/Edit,Add new objects/elements
+Context Menu,X,Delete Menu,All,Delete selected elements
+Context Menu,Ctrl + Z,Undo,All,Undo last action
+Context Menu,Ctrl + Shift + Z,Redo,All,Redo last undone action
+Context Menu,Shift + R,Repeat Last,All,Repeat last operation
+Visibility,H,Hide Selected,All,Hide selected objects/elements
+Visibility,Alt + H,Unhide All,All,Reveal all hidden objects/elements
+Visibility,Shift + H,Hide Unselected,All,Hide everything except selection
+Visibility,Z,Shading Pie Menu,All,Viewport shading options
+Visibility,Alt + Z,X-Ray Mode,All,Toggle X-ray mode
+Visibility,Shift + Z,Wireframe Toggle,All,Toggle wireframe/solid
+Object Operations,Shift + D,Duplicate,Object/Edit,Duplicate selected objects
+Object Operations,Alt + D,Duplicate Linked,Object Mode,Create linked duplicate
+Object Operations,M,Move to Collection,Object Mode,Move to collection menu
+Object Operations,Ctrl + P,Parent,Object Mode,Parent objects
+Object Operations,Alt + P,Clear Parent,Object Mode,Remove parent relationship
+Object Operations,Ctrl + A,Apply,Object Mode,Apply transformations
+Object Operations,Alt + G,Clear Location,Object/Edit,Reset location
+Object Operations,Alt + R,Clear Rotation,Object/Edit,Reset rotation
+Object Operations,Alt + S,Clear Scale,Object/Edit,Reset scale
+UI & Panels,T,Toggle Toolbar,All,Show/hide left toolbar
+UI & Panels,N,Toggle Properties,All,Show/hide right properties panel
+UI & Panels,Ctrl + Space,Maximize Area,All,Maximize current editor
+UI & Panels,F3,Search Menu,All,Search for operators
+UI & Panels,Ctrl + S,Save,All,Save current file
+UI & Panels,Ctrl + O,Open,All,Open file
+UI & Panels,Ctrl + N,New File,All,Create new file
+Proportional Edit,O,Toggle Proportional,Edit Mode,Toggle proportional editing
+Proportional Edit,Shift + O,Falloff Type,Edit Mode,Change proportional falloff
+Proportional Edit,Mouse Wheel,Adjust Radius,During Proportional,Change influence radius
+Snapping,Shift + Tab,Snap Menu,All,Snapping options
+Snapping,Shift + S,Cursor Menu,All,3D cursor snapping options
