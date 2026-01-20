@@ -1,3 +1,4 @@
+Blend Friend-
 The following is a small desktop app/ widget used to help look for Blender short cuts using the actions
 Search up the action in the search bar and ull get the following shortcut.
 Dependencies are axios and cheerio
